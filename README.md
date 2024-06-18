@@ -11,6 +11,11 @@ authorName: 'Serverless, Inc.'
 authorAvatar: 'https://avatars1.githubusercontent.com/u/13742415?s=200&v=4'
 -->
 
+# Pair Project - ACS 3210
+## Collaborators
+- Joanna Kang
+- Mathyas Papp
+
 # Serverless Framework Node Express API on AWS
 
 This template demonstrates how to develop and deploy a simple Node Express API service running on AWS Lambda using the Serverless Framework.
